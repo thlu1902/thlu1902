@@ -6,6 +6,7 @@
   * @linkedin: https://www.linkedin.com/in/tluu/
   * @email: <luutthanh91@gmail.com>
   * @inst: https://www.instagram.com/meimei_littlesister/
+  * Website is not my small project - a small business to learn website [link](https://www.linkedin.com/in/tluu/)
 <!---
 thlu1902/thlu1902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
