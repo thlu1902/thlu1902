@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analytics (DA)/Coding.... not related to DA - Cooking 
 - 🌱 I’m currently learning SQL and R 
 - 💞️ I’m looking to collaborate on Data Analystics Projects. I am seeking a Data Analyst job - Full-time/Part-time/Intership/Volunteer. 
+- My resume is [here](https://github.com/thlu1902/Resume.git)
 - 📫 How to reach me:
   * @linkedin: https://www.linkedin.com/in/tluu/
   * @email: <thanhluu1877@gmail.com>
